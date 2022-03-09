@@ -1,0 +1,17 @@
+.button {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+
+  width: 20.375rem;
+  height: 3.125rem;
+
+  border: 2px solid #BB99DD;
+  border-radius: 4px;
+
+  color: var(--purple);
+  text-decoration: none;
+  font-weight: 600;
+  text-transform: uppercase;
+}
