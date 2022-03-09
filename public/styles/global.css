@@ -11,4 +11,19 @@
 
 body {
   font-family: 'Poppins', sans-serif;
+  color: var(--purple);
+  background: var(--body-bg-color);
+}
+
+.container {
+  max-width: 20.5rem;
+  width: 100vw;
+  height: 100vh;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid red;
 }

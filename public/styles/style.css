@@ -1,0 +1,26 @@
+.avatar {
+  width: 13.3125rem;
+  height: 13.3125rem;
+  border-radius: 50%;
+  margin-bottom: 1rem;
+  border: 2px solid var(--purple);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.avatar > img {
+  border-radius: 50%;
+}
+
+p {
+  margin-bottom: 2rem;
+}
+
+ul {
+  display: flex;
+  flex-direction: row;
+  margin-top: 4.25rem;
+  gap: 1.875rem;
+  list-style: none;
+}
